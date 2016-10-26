@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flames1</string>
+    <string name="girl_name">Girl Name</string>
+    <string name="boy_name">Boy Name</string>
+    <string name="boy">Enter here</string>
+    <string name="check_relation">CHECK RELATION</string>
+</resources>
